@@ -1,0 +1,4 @@
+interface:
+  display_name: "企业面试全景调研"
+  short_description: "调研应聘企业的业务项目、政策与未来规划，生成可核验的HTML面试资料"
+  default_prompt: "使用 $company-interview-research 调研我要应聘的公司，整理近年项目、业务、政策与未来规划，生成详细HTML面试资料。"
