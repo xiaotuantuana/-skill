@@ -1,0 +1,512 @@
+[
+  {
+    "Group": "D:\\桌面",
+    "Name": "常用文件 - 快捷方式",
+    "Target": "E:\\zhuomianwenjian\\常用文件",
+    "Shortcut": "D:\\桌面\\常用文件 - 快捷方式.lnk"
+  },
+  {
+    "Group": "D:\\桌面",
+    "Name": "大工 - 快捷方式",
+    "Target": "E:\\zhuomianwenjian\\大工",
+    "Shortcut": "D:\\桌面\\大工 - 快捷方式.lnk"
+  },
+  {
+    "Group": "D:\\桌面",
+    "Name": "华硕管家（MyASUS）",
+    "Target": "",
+    "Shortcut": "D:\\桌面\\华硕管家（MyASUS）.lnk"
+  },
+  {
+    "Group": "D:\\桌面",
+    "Name": "考试安全客户端",
+    "Target": "E:\\Program Files\\ATS\\Exam_Client\\[6.1.511.1150]\\Exam_Client.exe",
+    "Shortcut": "D:\\桌面\\考试安全客户端.lnk"
+  },
+  {
+    "Group": "D:\\桌面",
+    "Name": "科研 - 快捷方式",
+    "Target": "E:\\zhuomianwenjian\\科研",
+    "Shortcut": "D:\\桌面\\科研 - 快捷方式.lnk"
+  },
+  {
+    "Group": "D:\\桌面",
+    "Name": "三维论文-曾 - 快捷方式",
+    "Target": "E:\\zhuomianwenjian\\三维论文-曾",
+    "Shortcut": "D:\\桌面\\三维论文-曾 - 快捷方式.lnk"
+  },
+  {
+    "Group": "D:\\桌面",
+    "Name": "实习 - 快捷方式",
+    "Target": "E:\\实习",
+    "Shortcut": "D:\\桌面\\实习 - 快捷方式.lnk"
+  },
+  {
+    "Group": "D:\\桌面",
+    "Name": "腾龙横向 - 快捷方式",
+    "Target": "E:\\zhuomianwenjian\\腾龙横向",
+    "Shortcut": "D:\\桌面\\腾龙横向 - 快捷方式.lnk"
+  },
+  {
+    "Group": "D:\\桌面",
+    "Name": "DeskBox",
+    "Target": "E:\\Program Files\\DeskBox\\DeskBox.exe",
+    "Shortcut": "D:\\桌面\\DeskBox.lnk"
+  },
+  {
+    "Group": "D:\\桌面",
+    "Name": "Excel",
+    "Target": "",
+    "Shortcut": "D:\\桌面\\Excel.lnk"
+  },
+  {
+    "Group": "D:\\桌面",
+    "Name": "eztest",
+    "Target": "E:\\Program Files\\eztest\\eztest.exe",
+    "Shortcut": "D:\\桌面\\eztest.lnk"
+  },
+  {
+    "Group": "D:\\桌面",
+    "Name": "GHelper",
+    "Target": "D:\\GHELPER\\GHelper.exe",
+    "Shortcut": "D:\\桌面\\GHelper.lnk"
+  },
+  {
+    "Group": "D:\\桌面",
+    "Name": "Microsoft Edge",
+    "Target": "C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\msedge.exe",
+    "Shortcut": "D:\\桌面\\Microsoft Edge.lnk"
+  },
+  {
+    "Group": "D:\\桌面",
+    "Name": "PowerPoint",
+    "Target": "",
+    "Shortcut": "D:\\桌面\\PowerPoint.lnk"
+  },
+  {
+    "Group": "D:\\桌面",
+    "Name": "Word",
+    "Target": "",
+    "Shortcut": "D:\\桌面\\Word.lnk"
+  },
+  {
+    "Group": "D:\\桌面\\双目\\双目代码\\Stereo-Detection-main\\Stereo-Detection-main\\stereo_introduce",
+    "Name": "VideoCap",
+    "Target": "",
+    "Shortcut": "D:\\桌面\\双目\\双目代码\\Stereo-Detection-main\\Stereo-Detection-main\\stereo_introduce\\VideoCap.exe"
+  },
+  {
+    "Group": "D:\\桌面\\大论文\\StereoBridge\\.tools\\lint\\bin",
+    "Name": "ruff",
+    "Target": "",
+    "Shortcut": "D:\\桌面\\大论文\\StereoBridge\\.tools\\lint\\bin\\ruff.exe"
+  },
+  {
+    "Group": "D:\\桌面\\就业\\中久数创_CAE初试_20261028\\02_桌面软件\\StructLab",
+    "Name": "StructLab",
+    "Target": "",
+    "Shortcut": "D:\\桌面\\就业\\中久数创_CAE初试_20261028\\02_桌面软件\\StructLab\\StructLab.exe"
+  },
+  {
+    "Group": "D:\\桌面\\就业\\中久数创_CAE初试_20261028\\02_桌面软件\\StructLab_v1.1",
+    "Name": "StructLab",
+    "Target": "",
+    "Shortcut": "D:\\桌面\\就业\\中久数创_CAE初试_20261028\\02_桌面软件\\StructLab_v1.1\\StructLab.exe"
+  },
+  {
+    "Group": "C:\\Users\\Public\\Desktop",
+    "Name": "火绒应用商店",
+    "Target": "D:\\huorongyingyongshangdian\\Huorong\\AppStore\\bin\\HrAppStoreNotify.exe",
+    "Shortcut": "C:\\Users\\Public\\Desktop\\火绒应用商店.lnk"
+  },
+  {
+    "Group": "C:\\Users\\Public\\Desktop",
+    "Name": "小绿鲸英文文献阅读器",
+    "Target": "D:\\xiaolvjingyueduqi\\xljsci\\小绿鲸英文文献阅读器.exe",
+    "Shortcut": "C:\\Users\\Public\\Desktop\\小绿鲸英文文献阅读器.lnk"
+  },
+  {
+    "Group": "C:\\Users\\Public\\Desktop",
+    "Name": "小鱼易连",
+    "Target": "D:\\XYWinQT\\XYWinQT.exe",
+    "Shortcut": "C:\\Users\\Public\\Desktop\\小鱼易连.lnk"
+  },
+  {
+    "Group": "C:\\Users\\Public\\Desktop",
+    "Name": "Adobe Acrobat",
+    "Target": "C:\\Program Files\\Adobe\\Acrobat DC\\Acrobat\\Acrobat.exe",
+    "Shortcut": "C:\\Users\\Public\\Desktop\\Adobe Acrobat.lnk"
+  },
+  {
+    "Group": "C:\\Users\\Public\\Desktop",
+    "Name": "Everything",
+    "Target": "D:\\everything\\Everything.exe",
+    "Shortcut": "C:\\Users\\Public\\Desktop\\Everything.lnk"
+  },
+  {
+    "Group": "C:\\Users\\Public\\Desktop",
+    "Name": "HiBit Uninstaller",
+    "Target": "D:\\hibit\\HiBit Uninstaller\\HiBitUninstaller.exe",
+    "Shortcut": "C:\\Users\\Public\\Desktop\\HiBit Uninstaller.lnk"
+  },
+  {
+    "Group": "C:\\Users\\Public\\Desktop",
+    "Name": "MathType 7",
+    "Target": "D:\\MYTHTYPE\\Mythtype\\MathType.exe",
+    "Shortcut": "C:\\Users\\Public\\Desktop\\MathType 7.lnk"
+  },
+  {
+    "Group": "C:\\Users\\Public\\Desktop",
+    "Name": "NVIDIA App",
+    "Target": "C:\\Program Files\\NVIDIA Corporation\\NVIDIA App\\CEF\\NVIDIA App.exe",
+    "Shortcut": "C:\\Users\\Public\\Desktop\\NVIDIA App.lnk"
+  },
+  {
+    "Group": "C:\\Users\\Public\\Desktop",
+    "Name": "PrivaZer",
+    "Target": "D:\\privazer\\PrivaZer\\PrivaZer.exe",
+    "Shortcut": "C:\\Users\\Public\\Desktop\\PrivaZer.lnk"
+  },
+  {
+    "Group": "C:\\Users\\Public\\Desktop",
+    "Name": "PyCharm",
+    "Target": "D:\\pycharm\\PyCharm 2025.1.3.1\\bin\\pycharm64.exe",
+    "Shortcut": "C:\\Users\\Public\\Desktop\\PyCharm.lnk"
+  },
+  {
+    "Group": "C:\\Users\\Public\\Desktop",
+    "Name": "Visual Studio Code",
+    "Target": "D:\\vscode\\Microsoft VS Code\\Code.exe",
+    "Shortcut": "C:\\Users\\Public\\Desktop\\Visual Studio Code.lnk"
+  },
+  {
+    "Group": "C:\\Users\\Public\\Desktop",
+    "Name": "WPS文字",
+    "Target": "D:\\WPS\\WPS Office\\12.8.2.21555\\office6\\wps.exe",
+    "Shortcut": "C:\\Users\\Public\\Desktop\\WPS文字.lnk"
+  },
+  {
+    "Group": "C:\\Users\\ASUSW\\DeskBox\\AI",
+    "Name": "豆包",
+    "Target": "D:\\doubao\\Doubao.exe",
+    "Shortcut": "C:\\Users\\ASUSW\\DeskBox\\AI\\豆包.lnk"
+  },
+  {
+    "Group": "C:\\Users\\ASUSW\\DeskBox\\AI",
+    "Name": "Antigravity Tools",
+    "Target": "D:\\antigravitytool\\Antigravity Tools\\antigravity-tools.exe",
+    "Shortcut": "C:\\Users\\ASUSW\\DeskBox\\AI\\Antigravity Tools.lnk"
+  },
+  {
+    "Group": "C:\\Users\\ASUSW\\DeskBox\\AI",
+    "Name": "CC Switch",
+    "Target": "D:\\ccswitch\\cc-switch.exe",
+    "Shortcut": "C:\\Users\\ASUSW\\DeskBox\\AI\\CC Switch.lnk"
+  },
+  {
+    "Group": "C:\\Users\\ASUSW\\DeskBox\\AI",
+    "Name": "ChatGPT",
+    "Target": "",
+    "Shortcut": "C:\\Users\\ASUSW\\DeskBox\\AI\\ChatGPT.lnk"
+  },
+  {
+    "Group": "C:\\Users\\ASUSW\\DeskBox\\AI",
+    "Name": "Claude",
+    "Target": "",
+    "Shortcut": "C:\\Users\\ASUSW\\DeskBox\\AI\\Claude.lnk"
+  },
+  {
+    "Group": "C:\\Users\\ASUSW\\DeskBox\\AI",
+    "Name": "DeepSeek Harness",
+    "Target": "E:\\deepseek\\DeepSeek Harness.exe",
+    "Shortcut": "C:\\Users\\ASUSW\\DeskBox\\AI\\DeepSeek Harness.lnk"
+  },
+  {
+    "Group": "C:\\Users\\ASUSW\\DeskBox\\AI",
+    "Name": "Gemini",
+    "Target": "C:\\Users\\ASUSW\\AppData\\Local\\Google\\Gemini\\Gemini.exe",
+    "Shortcut": "C:\\Users\\ASUSW\\DeskBox\\AI\\Gemini.lnk"
+  },
+  {
+    "Group": "C:\\Users\\ASUSW\\DeskBox\\AI",
+    "Name": "v2rayN - 快捷方式",
+    "Target": "E:\\v2ray\\v2ray-master\\v2rayN-master\\v2rayN-windows-64-desktop\\v2rayN-windows-64\\v2rayN.exe",
+    "Shortcut": "C:\\Users\\ASUSW\\DeskBox\\AI\\v2rayN - 快捷方式.lnk"
+  },
+  {
+    "Group": "C:\\Users\\ASUSW\\DeskBox\\AI",
+    "Name": "WorkBuddy",
+    "Target": "E:\\workbudy\\WorkBuddy\\WorkBuddy.exe",
+    "Shortcut": "C:\\Users\\ASUSW\\DeskBox\\AI\\WorkBuddy.lnk"
+  },
+  {
+    "Group": "C:\\Users\\ASUSW\\DeskBox\\DeskBox",
+    "Name": "Abaqus CAE",
+    "Target": "D:\\Program Files\\SIMULIA\\EstProducts\\2026\\win_b64\\resources\\install\\cmdDirFeature\\launcher.bat",
+    "Shortcut": "C:\\Users\\ASUSW\\DeskBox\\DeskBox\\Abaqus CAE.lnk"
+  },
+  {
+    "Group": "C:\\Users\\ASUSW\\DeskBox\\DeskBox",
+    "Name": "MATLAB R2025b",
+    "Target": "D:\\MATLAB\\bin\\matlab.exe",
+    "Shortcut": "C:\\Users\\ASUSW\\DeskBox\\DeskBox\\MATLAB R2025b.lnk"
+  },
+  {
+    "Group": "C:\\Users\\ASUSW\\DeskBox\\DeskBox",
+    "Name": "SOLIDWORKS 2025",
+    "Target": "C:\\Windows\\Installer\\{DB2C3F1B-3025-4743-AAA8-1B5E20047E34}\\i386_SldWorks.exe",
+    "Shortcut": "C:\\Users\\ASUSW\\DeskBox\\DeskBox\\SOLIDWORKS 2025.lnk"
+  },
+  {
+    "Group": "C:\\Users\\ASUSW\\DeskBox\\DeskBox",
+    "Name": "Workbench 2025 R2",
+    "Target": "",
+    "Shortcut": "C:\\Users\\ASUSW\\DeskBox\\DeskBox\\Workbench 2025 R2.lnk"
+  },
+  {
+    "Group": "C:\\Users\\ASUSW\\DeskBox\\DeskBox (2)",
+    "Name": "国网题库2027.exe - 快捷方式",
+    "Target": "E:\\codex-project\\stategrid-quiz-2027\\软件\\国网题库2027\\国网题库2027.exe",
+    "Shortcut": "C:\\Users\\ASUSW\\DeskBox\\DeskBox (2)\\国网题库2027.exe - 快捷方式.lnk"
+  },
+  {
+    "Group": "C:\\Users\\ASUSW\\DeskBox\\工具",
+    "Name": "百度网盘",
+    "Target": "D:\\baiduwangpan\\BaiduNetdisk\\BaiduNetdisk.exe",
+    "Shortcut": "C:\\Users\\ASUSW\\DeskBox\\工具\\百度网盘.lnk"
+  },
+  {
+    "Group": "C:\\Users\\ASUSW\\DeskBox\\工具",
+    "Name": "北通智控",
+    "Target": "E:\\betopgame\\tf9y1ltu\\betopgame.exe",
+    "Shortcut": "C:\\Users\\ASUSW\\DeskBox\\工具\\北通智控.lnk"
+  },
+  {
+    "Group": "C:\\Users\\ASUSW\\DeskBox\\工具",
+    "Name": "国考云",
+    "Target": "D:\\guokaoyun\\stone-exam-ui\\国考云.exe",
+    "Shortcut": "C:\\Users\\ASUSW\\DeskBox\\工具\\国考云.lnk"
+  },
+  {
+    "Group": "C:\\Users\\ASUSW\\DeskBox\\工具",
+    "Name": "卡巴斯基",
+    "Target": "C:\\Program Files (x86)\\Kaspersky Lab\\Kaspersky 21.25\\avpui.exe",
+    "Shortcut": "C:\\Users\\ASUSW\\DeskBox\\工具\\卡巴斯基.lnk"
+  },
+  {
+    "Group": "C:\\Users\\ASUSW\\DeskBox\\工具",
+    "Name": "夸克网盘",
+    "Target": "D:\\kuakewangpan\\QuarkCloudDrive\\quark_cloud_drive.exe",
+    "Shortcut": "C:\\Users\\ASUSW\\DeskBox\\工具\\夸克网盘.lnk"
+  },
+  {
+    "Group": "C:\\Users\\ASUSW\\DeskBox\\工具",
+    "Name": "企业微信",
+    "Target": "D:\\qiyeweixin\\WXWork\\WXWork.exe",
+    "Shortcut": "C:\\Users\\ASUSW\\DeskBox\\工具\\企业微信.lnk"
+  },
+  {
+    "Group": "C:\\Users\\ASUSW\\DeskBox\\工具",
+    "Name": "腾讯会议",
+    "Target": "D:\\tengxunhuiyi\\WeMeet\\wemeetapp.exe",
+    "Shortcut": "C:\\Users\\ASUSW\\DeskBox\\工具\\腾讯会议.lnk"
+  },
+  {
+    "Group": "C:\\Users\\ASUSW\\DeskBox\\工具",
+    "Name": "图吧工具箱",
+    "Target": "D:\\tuba\\图吧工具箱202601\\图吧工具箱2026.exe",
+    "Shortcut": "C:\\Users\\ASUSW\\DeskBox\\工具\\图吧工具箱.lnk"
+  },
+  {
+    "Group": "C:\\Users\\ASUSW\\DeskBox\\工具",
+    "Name": "网易云音乐",
+    "Target": "D:\\wangyiyunyinyue\\CloudMusic\\cloudmusic.exe",
+    "Shortcut": "C:\\Users\\ASUSW\\DeskBox\\工具\\网易云音乐.lnk"
+  },
+  {
+    "Group": "C:\\Users\\ASUSW\\DeskBox\\工具",
+    "Name": "微信",
+    "Target": "D:\\wechat\\wechat\\Weixin\\Weixin.exe",
+    "Shortcut": "C:\\Users\\ASUSW\\DeskBox\\工具\\微信.lnk"
+  },
+  {
+    "Group": "C:\\Users\\ASUSW\\DeskBox\\工具",
+    "Name": "向日葵远程控制",
+    "Target": "D:\\xiangrikui\\AweSun\\AweSun.exe",
+    "Shortcut": "C:\\Users\\ASUSW\\DeskBox\\工具\\向日葵远程控制.lnk"
+  },
+  {
+    "Group": "C:\\Users\\ASUSW\\DeskBox\\工具",
+    "Name": "小鱼易连",
+    "Target": "D:\\XYWinQT\\XYWinQT.exe",
+    "Shortcut": "C:\\Users\\ASUSW\\DeskBox\\工具\\小鱼易连.lnk"
+  },
+  {
+    "Group": "C:\\Users\\ASUSW\\DeskBox\\工具",
+    "Name": "Bambu Studio",
+    "Target": "D:\\tuozhu\\Bambu Studio\\bambu-studio.exe",
+    "Shortcut": "C:\\Users\\ASUSW\\DeskBox\\工具\\Bambu Studio.lnk"
+  },
+  {
+    "Group": "C:\\Users\\ASUSW\\DeskBox\\工具",
+    "Name": "Firefox",
+    "Target": "",
+    "Shortcut": "C:\\Users\\ASUSW\\DeskBox\\工具\\Firefox.exe"
+  },
+  {
+    "Group": "C:\\Users\\ASUSW\\DeskBox\\工具",
+    "Name": "Firefox",
+    "Target": "D:\\huohu\\firefox.exe",
+    "Shortcut": "C:\\Users\\ASUSW\\DeskBox\\工具\\Firefox.lnk"
+  },
+  {
+    "Group": "C:\\Users\\ASUSW\\DeskBox\\工具",
+    "Name": "Google Chrome",
+    "Target": "C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe",
+    "Shortcut": "C:\\Users\\ASUSW\\DeskBox\\工具\\Google Chrome.lnk"
+  },
+  {
+    "Group": "C:\\Users\\ASUSW\\DeskBox\\工具",
+    "Name": "nowclaw",
+    "Target": "D:\\niuke\\nowclaw\\nowclaw.exe",
+    "Shortcut": "C:\\Users\\ASUSW\\DeskBox\\工具\\nowclaw.lnk"
+  },
+  {
+    "Group": "C:\\Users\\ASUSW\\DeskBox\\工具",
+    "Name": "QQ",
+    "Target": "D:\\QQ\\QQ.exe",
+    "Shortcut": "C:\\Users\\ASUSW\\DeskBox\\工具\\QQ.lnk"
+  },
+  {
+    "Group": "C:\\Users\\ASUSW\\DeskBox\\工具",
+    "Name": "QQ音乐",
+    "Target": "D:\\QQMusic\\QQMusic.exe",
+    "Shortcut": "C:\\Users\\ASUSW\\DeskBox\\工具\\QQ音乐.lnk"
+  },
+  {
+    "Group": "C:\\Users\\ASUSW\\DeskBox\\工具",
+    "Name": "RecruitOps 秋招工作台",
+    "Target": "E:\\RecruitOps\\RecruitOps-Desktop-Preview.exe",
+    "Shortcut": "C:\\Users\\ASUSW\\DeskBox\\工具\\RecruitOps 秋招工作台.lnk"
+  },
+  {
+    "Group": "C:\\Users\\ASUSW\\DeskBox\\工具",
+    "Name": "vncviewer - 快捷方式",
+    "Target": "D:\\VNC\\vncviewer.exe",
+    "Shortcut": "C:\\Users\\ASUSW\\DeskBox\\工具\\vncviewer - 快捷方式.lnk"
+  },
+  {
+    "Group": "C:\\Users\\ASUSW\\DeskBox\\游戏",
+    "Name": "守望先锋",
+    "Target": "E:\\Overwatch\\Overwatch Launcher.exe",
+    "Shortcut": "C:\\Users\\ASUSW\\DeskBox\\游戏\\守望先锋.lnk"
+  },
+  {
+    "Group": "C:\\Users\\ASUSW\\DeskBox\\游戏",
+    "Name": "逃离鸭科夫",
+    "Target": "",
+    "Shortcut": "C:\\Users\\ASUSW\\DeskBox\\游戏\\逃离鸭科夫.url"
+  },
+  {
+    "Group": "C:\\Users\\ASUSW\\DeskBox\\游戏",
+    "Name": "蟹蟹寻宝奇遇",
+    "Target": "",
+    "Shortcut": "C:\\Users\\ASUSW\\DeskBox\\游戏\\蟹蟹寻宝奇遇.url"
+  },
+  {
+    "Group": "C:\\Users\\ASUSW\\DeskBox\\游戏",
+    "Name": "永劫无间",
+    "Target": "E:\\Naraka\\LauncherGame.exe",
+    "Shortcut": "C:\\Users\\ASUSW\\DeskBox\\游戏\\永劫无间.lnk"
+  },
+  {
+    "Group": "C:\\Users\\ASUSW\\DeskBox\\游戏",
+    "Name": "幽灵行者 2（Ghostrunner 2）",
+    "Target": "",
+    "Shortcut": "C:\\Users\\ASUSW\\DeskBox\\游戏\\幽灵行者 2（Ghostrunner 2）.url"
+  },
+  {
+    "Group": "C:\\Users\\ASUSW\\DeskBox\\游戏",
+    "Name": "ATRI -My Dear Moments-",
+    "Target": "",
+    "Shortcut": "C:\\Users\\ASUSW\\DeskBox\\游戏\\ATRI -My Dear Moments-.url"
+  },
+  {
+    "Group": "C:\\Users\\ASUSW\\DeskBox\\游戏",
+    "Name": "Ghostwire Tokyo",
+    "Target": "",
+    "Shortcut": "C:\\Users\\ASUSW\\DeskBox\\游戏\\Ghostwire Tokyo.url"
+  },
+  {
+    "Group": "C:\\Users\\ASUSW\\DeskBox\\游戏",
+    "Name": "MONSTER HUNTER RISE",
+    "Target": "",
+    "Shortcut": "C:\\Users\\ASUSW\\DeskBox\\游戏\\MONSTER HUNTER RISE.url"
+  },
+  {
+    "Group": "C:\\Users\\ASUSW\\DeskBox\\游戏",
+    "Name": "Monster Hunter World",
+    "Target": "",
+    "Shortcut": "C:\\Users\\ASUSW\\DeskBox\\游戏\\Monster Hunter World.url"
+  },
+  {
+    "Group": "C:\\Users\\ASUSW\\DeskBox\\游戏",
+    "Name": "Palworld  幻兽帕鲁",
+    "Target": "",
+    "Shortcut": "C:\\Users\\ASUSW\\DeskBox\\游戏\\Palworld  幻兽帕鲁.url"
+  },
+  {
+    "Group": "C:\\Users\\ASUSW\\DeskBox\\游戏",
+    "Name": "Riders Republic",
+    "Target": "",
+    "Shortcut": "C:\\Users\\ASUSW\\DeskBox\\游戏\\Riders Republic.url"
+  },
+  {
+    "Group": "C:\\Users\\ASUSW\\DeskBox\\游戏",
+    "Name": "Watch_Dogs 2",
+    "Target": "",
+    "Shortcut": "C:\\Users\\ASUSW\\DeskBox\\游戏\\Watch_Dogs 2.url"
+  },
+  {
+    "Group": "C:\\Users\\ASUSW\\DeskBox\\游戏工具",
+    "Name": "暴雪战网",
+    "Target": "D:\\baoxue\\Battle.net\\Battle.net Launcher.exe",
+    "Shortcut": "C:\\Users\\ASUSW\\DeskBox\\游戏工具\\暴雪战网.lnk"
+  },
+  {
+    "Group": "C:\\Users\\ASUSW\\DeskBox\\游戏工具",
+    "Name": "Epic Games Launcher",
+    "Target": "D:\\epic\\Epic Games\\Launcher\\Portal\\Binaries\\Win64\\EpicGamesLauncher.exe",
+    "Shortcut": "C:\\Users\\ASUSW\\DeskBox\\游戏工具\\Epic Games Launcher.lnk"
+  },
+  {
+    "Group": "C:\\Users\\ASUSW\\DeskBox\\游戏工具",
+    "Name": "GOG GALAXY",
+    "Target": "E:\\gog\\GOG Galaxy\\GalaxyClient.exe",
+    "Shortcut": "C:\\Users\\ASUSW\\DeskBox\\游戏工具\\GOG GALAXY.lnk"
+  },
+  {
+    "Group": "C:\\Users\\ASUSW\\DeskBox\\游戏工具",
+    "Name": "Steam",
+    "Target": "D:\\steam\\Steam.exe",
+    "Shortcut": "C:\\Users\\ASUSW\\DeskBox\\游戏工具\\Steam.lnk"
+  },
+  {
+    "Group": "C:\\Users\\ASUSW\\DeskBox\\游戏工具",
+    "Name": "Ubisoft Connect",
+    "Target": "E:\\yubi\\Ubisoft Game Launcher\\UbisoftConnect.exe",
+    "Shortcut": "C:\\Users\\ASUSW\\DeskBox\\游戏工具\\Ubisoft Connect.lnk"
+  },
+  {
+    "Group": "C:\\Users\\ASUSW\\DeskBox\\游戏工具",
+    "Name": "UsbEAm游戏下载助手 - 快捷方式",
+    "Target": "E:\\zhuomianwenjian\\大工\\ipv6\\UsbEAm游戏下载助手_260412_amd64\\UsbEAm游戏下载助手.exe",
+    "Shortcut": "C:\\Users\\ASUSW\\DeskBox\\游戏工具\\UsbEAm游戏下载助手 - 快捷方式.lnk"
+  },
+  {
+    "Group": "C:\\Users\\ASUSW\\DeskBox\\游戏工具",
+    "Name": "UU加速器",
+    "Target": "D:\\wangyiuujiasuqi\\Netease\\UU\\uu_launcher.exe",
+    "Shortcut": "C:\\Users\\ASUSW\\DeskBox\\游戏工具\\UU加速器.lnk"
+  }
+]
